@@ -1,8 +1,8 @@
 
 # EX NO: Cloud-account-set-up-and-services
 
-Name : PAVITHRA P
-Reg no: 212223110035
+Name : Divya Sri V
+Reg no: 212224230070
 
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
